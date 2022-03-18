@@ -1,5 +1,4 @@
 import random
-from random import randrange
 queue = []
 
 queue.append('John')
