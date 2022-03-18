@@ -43,8 +43,8 @@
 
 * Problem
 
-    There is a line of people that need to be removed from the line in FIFO order. This is the basic part of the problem. However, as the line gets shorter, every three people that have gone through the line a random person from the original line will come back into line at the end. The line has already been created here: you must iterate through the line removing people and adding a random person every three people that have been removed.
+    There is a line of people that need to be removed from the line in FIFO order. This is the basic part of the problem. However, as the line gets shorter, every three people that have gone through the line a random person from the original line will come back into line at the end. The line has already been created [here](https://github.com/SpaceDadNewman/CSE212-FinalProj/blob/main/queue_problem.py). you must iterate through the line removing people and adding a random person every three people that have been removed.
 
 * Solution
 
-    (link to solution)
+    Here is the [solution](https://github.com/SpaceDadNewman/CSE212-FinalProj/blob/main/queue_solution.py)
