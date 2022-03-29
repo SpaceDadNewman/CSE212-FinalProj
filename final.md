@@ -54,7 +54,7 @@
 # Sets
 * What are sets?
     
-    Sets can store multiple values or items in a single variable. They do not allow duplicate values, they don't follow any specific order, and the items within the set cannot be changed once they've been created within the set.
+    Sets can store multiple values or items in a single variable. They do not allow duplicate values, they don't follow any specific order, and the items within the set cannot be changed once they've been created within the set. These typically have to iterate through multiple for loops so they are O(n^2)
 
 * Example
 
